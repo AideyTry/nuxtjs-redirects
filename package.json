@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShadowMon/url.git"
+    "url": "git+https://github.com/ShadowMon/nuxtjs-redirects.git"
   },
   "keywords": [
     "nuxtjs",
@@ -19,9 +19,9 @@
   "author": "Evan Soul",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ShadowMon/url/issues"
+    "url": "https://github.com/ShadowMon/nuxtjs-redirects/issues"
   },
-  "homepage": "https://github.com/ShadowMon/url#readme",
+  "homepage": "https://github.com/ShadowMon/nuxtjs-redirects#readme",
   "dependencies": {
     "axios": "^0.21.1"
   }
