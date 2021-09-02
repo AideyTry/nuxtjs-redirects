@@ -1,0 +1,28 @@
+{
+  "name": "nuxt-redirects",
+  "version": "1.0.0",
+  "description": "Nuxt module to dynamically redirect",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadowMon/url.git"
+  },
+  "keywords": [
+    "nuxtjs",
+    "nuxt",
+    "redirect",
+    "seo"
+  ],
+  "author": "Evan Soul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShadowMon/url/issues"
+  },
+  "homepage": "https://github.com/ShadowMon/url#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
