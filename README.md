@@ -1,4 +1,4 @@
-# Redirect Module 🔀 nuxt-redirect-module
+# Redirect Module 🔀 nuxt-redirect-module of oMall.
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
