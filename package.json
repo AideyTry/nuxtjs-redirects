@@ -1,7 +1,7 @@
 {
 	"name": "nuxtjs-redirects",
 	"version": "1.0.0",
-	"description": "Nuxt module to dynamically redirect",
+	"description": "Nuxt module to dynamically redirect of oMall",
 	"main": "lib/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -16,12 +16,12 @@
 		"redirect",
 		"seo"
 	],
-	"author": "Evan Soul",
+	"author": "Aiden",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/ShadowMon/nuxtjs-redirects/issues"
+		"url": "https://github.com/AideyTry/nuxtjs-redirects/issues"
 	},
-	"homepage": "https://github.com/ShadowMon/nuxtjs-redirects#readme",
+	"homepage": "https://github.com/AideyTry/nuxtjs-redirects#readme",
 	"dependencies": {
 		"axios": "^0.21.1"
 	}
