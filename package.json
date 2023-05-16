@@ -1,5 +1,5 @@
 {
-	"name": "nuxtjs-redirects",
+	"name": "@omall/nuxt-redirects",
 	"version": "1.0.0",
 	"description": "Nuxt module to dynamically redirect of oMall",
 	"main": "lib/index.js",
