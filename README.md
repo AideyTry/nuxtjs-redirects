@@ -1,3 +1,11 @@
+<!--
+ * @Author: Aiden jason_dlb@sina.cn
+ * @Date: 2023-05-04 15:11:28
+ * @LastEditors: Aiden jason_dlb@sina.cn
+ * @LastEditTime: 2023-05-16 19:06:11
+ * @FilePath: \nuxtjs-redirects\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # Redirect Module 🔀 nuxt-redirect-module of oMall.
 
 [![npm version][npm-version-src]][npm-version-href]
@@ -19,14 +27,14 @@ The current redirect is a personal project, please do not use it, it is still in
 
 ## Setup
 
-1. Add the `@omall/nuxt-redirects` dependency with `yarn` or `npm` to your project
-2. Add `@omall/nuxt-redirects` to the `modules` section of `nuxt.config.js`:
+1. Add the `nuxt-olight-redirect` dependency with `yarn` or `npm` to your project
+2. Add `nuxt-olight-redirect` to the `modules` section of `nuxt.config.js`:
 3. Configure it:
 
 ```js
 {
   modules: [
-    ['@omall/nuxt-redirects']
+    ['nuxt-olight-redirect']
   ]
 }
 ```
@@ -36,7 +44,7 @@ The current redirect is a personal project, please do not use it, it is still in
 ```js
 {
   modules: [
-    '@omall/nuxt-redirects'
+    'nuxt-olight-redirect'
   ],
   redirects: {
     // Redirect options here
